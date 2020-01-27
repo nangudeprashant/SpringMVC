@@ -23,7 +23,7 @@
 		<dependency>
 			<groupId>io.ratpack</groupId>
 			<artifactId>ratpack-core</artifactId>
-			<version>1.4.6</version>
+			<version>1.7.6</version>
 		</dependency>
 	</dependencies>
 </project>
