@@ -199,7 +199,7 @@
         <javax.servlet.jsp-api.version>2.3.2-b02</javax.servlet.jsp-api.version>
 
         <!-- marshalling -->
-        <jackson.version>2.8.5</jackson.version>
+        <jackson.version>2.9.10.4</jackson.version>
 
         <!-- various 1.3.2 -->
         <hibernate-validator.version>5.3.3.Final</hibernate-validator.version>
