@@ -263,7 +263,7 @@
         <derby.version>10.13.1.1</derby.version>
 
         <!-- various -->
-        <hibernate-validator.version>5.3.3.Final</hibernate-validator.version>
+        <hibernate-validator.version>5.3.6.Final</hibernate-validator.version>
         <javax.el-api.version>2.2.5</javax.el-api.version>
         <taglibs-standard.version>1.1.2</taglibs-standard.version>
         <jstl-api.version>1.2</jstl-api.version>
