@@ -178,7 +178,7 @@
 		<javax.servlet.servlet-api.version>2.5</javax.servlet.servlet-api.version>
 
 		<!-- various -->
-		<hibernate-validator.version>5.4.1.Final</hibernate-validator.version>
+		<hibernate-validator.version>5.4.2.Final</hibernate-validator.version>
 		<xml-apis.version>1.4.01</xml-apis.version>
 		<javax.el-api.version>2.2.5</javax.el-api.version>
 
