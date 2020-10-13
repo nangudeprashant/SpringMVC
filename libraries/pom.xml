@@ -664,7 +664,7 @@
         <jUnitParams.version>1.1.0</jUnitParams.version>
         <netty.version>4.1.15.Final</netty.version>
         <commons.collections.version>4.1</commons.collections.version>
-        <junit.version>4.12</junit.version>
+        <junit.version>4.13.1</junit.version>
         <java-lsh.version>0.10</java-lsh.version>
         <pact.version>3.5.0</pact.version>
         <awaitility.version>3.0.0</awaitility.version>
