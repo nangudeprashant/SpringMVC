@@ -17,7 +17,7 @@
     <properties>
         <http-component-version>4.4.6</http-component-version>
         <drools-version>7.1.0.Beta2</drools-version>
-        <apache-poi-version>3.13</apache-poi-version>
+        <apache-poi-version>4.1.2</apache-poi-version>
     </properties>
 
     <dependencies>
