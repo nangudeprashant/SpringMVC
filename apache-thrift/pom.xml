@@ -14,7 +14,7 @@
 
     <properties>
         <java.versin>1.8</java.versin>
-        <thrift.version>0.10.0</thrift.version>
+        <thrift.version>0.14.0</thrift.version>
         <maven-thrift.version>0.1.11</maven-thrift.version>
     </properties>
 
