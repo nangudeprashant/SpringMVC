@@ -648,7 +648,7 @@
         <javers.version>3.1.0</javers.version>
         <jetty.version>9.4.3.v20170317</jetty.version>
         <httpclient.version>4.5.3</httpclient.version>
-        <commons.io.version>2.5</commons.io.version>
+        <commons.io.version>2.7</commons.io.version>
         <commons.dbutils.version>1.6</commons.dbutils.version>
         <h2.version>1.4.196</h2.version>
         <jetty.version>9.4.2.v20170220</jetty.version>
