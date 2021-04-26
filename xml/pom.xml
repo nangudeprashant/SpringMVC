@@ -285,7 +285,7 @@
         <dom4j.version>1.6.1</dom4j.version>
         <jaxen.version>1.1.6</jaxen.version>
         <jdom2.version>2.0.6</jdom2.version>
-        <commons-io.version>2.5</commons-io.version>
+        <commons-io.version>2.7</commons-io.version>
         <commons-collections4.version>4.1</commons-collections4.version>
         <jibx-version>1.2.4.5</jibx-version>
 
