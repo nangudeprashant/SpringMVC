@@ -171,7 +171,7 @@
 		<hibernate.version>5.2.10.Final</hibernate.version>
 		<mysql-connector-java.version>6.0.6</mysql-connector-java.version>
 		<spring-data-jpa.version>1.11.3.RELEASE</spring-data-jpa.version>
-		<h2.version>1.4.195</h2.version>
+		<h2.version>2.1.210</h2.version>
 
 		<!-- web -->
 		<javax.servlet.jstl.version>1.2</javax.servlet.jstl.version>
