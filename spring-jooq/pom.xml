@@ -222,7 +222,7 @@
 
     <properties>
         <org.jooq.version>3.8.6</org.jooq.version>
-        <com.h2database.version>1.4.193</com.h2database.version>
+        <com.h2database.version>2.1.210</com.h2database.version>
         <org.springframework.version>4.3.4.RELEASE</org.springframework.version>
 
         <lifecycle-mapping.version>1.0.0</lifecycle-mapping.version>
