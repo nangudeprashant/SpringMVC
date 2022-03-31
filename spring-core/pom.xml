@@ -129,7 +129,7 @@
 	<properties>
 		<mockito.version>1.10.19</mockito.version>
 		<mockito.spring.boot.version>1.4.4.RELEASE</mockito.spring.boot.version>
-		<spring.version>4.3.4.RELEASE</spring.version>
+		<spring.version>5.3.18</spring.version>
 		<javax.inject.version>1</javax.inject.version>
 		<guava.version>20.0</guava.version>
 		<maven-war-plugin.version>2.6</maven-war-plugin.version>
