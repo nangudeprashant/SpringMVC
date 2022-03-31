@@ -83,6 +83,6 @@
     <properties>
         <spring-cloud-starter-feign.version>1.2.3.RELEASE</spring-cloud-starter-feign.version>
         <spring-cloud-starter-hystrix.version>1.2.3.RELEASE</spring-cloud-starter-hystrix.version>
-        <spring-boot-starter-web.version>1.4.2.RELEASE</spring-boot-starter-web.version>
+        <spring-boot-starter-web.version>2.5.12</spring-boot-starter-web.version>
     </properties>
 </project>
