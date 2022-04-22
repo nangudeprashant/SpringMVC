@@ -164,7 +164,7 @@
 
     <properties>
         <!-- Spring -->
-        <org.springframework.version>4.3.4.RELEASE</org.springframework.version>
+        <org.springframework.version>5.3.19</org.springframework.version>
 
 
         <!-- testing -->
