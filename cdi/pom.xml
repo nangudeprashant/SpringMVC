@@ -80,7 +80,7 @@
         </profile>
     </profiles>
     <properties>
-        <spring.version>4.3.4.RELEASE</spring.version>
+        <spring.version>5.2.22.RELEASE</spring.version>
         <aspectjweaver.version>1.8.9</aspectjweaver.version>
         <weld-se-core.version>2.4.1.Final</weld-se-core.version>
     </properties>
