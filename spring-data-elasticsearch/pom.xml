@@ -20,7 +20,7 @@
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
 
-        <org.springframework.version>4.3.4.RELEASE</org.springframework.version>
+        <org.springframework.version>5.2.22.RELEASE</org.springframework.version>
         <spring-data-elasticsearch.version>2.0.5.RELEASE</spring-data-elasticsearch.version>
         <jna.version>4.2.2</jna.version>
         <elasticsearch.version>2.4.2</elasticsearch.version>
