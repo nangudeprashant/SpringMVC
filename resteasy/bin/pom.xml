@@ -9,7 +9,7 @@
     <packaging>war</packaging>
 
     <properties>
-        <resteasy.version>3.0.19.Final</resteasy.version>
+        <resteasy.version>3.14.0.Final</resteasy.version>
         <commons-io.version>2.5</commons-io.version>
         <cargo-maven2-plugin.version>1.6.1</cargo-maven2-plugin.version>
     </properties>
