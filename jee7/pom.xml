@@ -25,7 +25,7 @@
 		<wildfly.version>8.2.1.Final</wildfly.version>
 		<awaitility.version>1.7.0</awaitility.version>
 		<undertow-websockets-jsr.version>1.4.6.Final</undertow-websockets-jsr.version>
-		<resteasy.version>3.0.19.Final</resteasy.version>
+		<resteasy.version>3.14.0.Final</resteasy.version>
 		<glassfish-embedded-all.version>4.1.1</glassfish-embedded-all.version>
 		<javax.json.version>1.0.4</javax.json.version>
 		<tyrus.version>1.13</tyrus.version>
