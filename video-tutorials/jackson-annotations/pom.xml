@@ -150,7 +150,7 @@
         <mysql-connector-java.version>5.1.38</mysql-connector-java.version>
 
         <!-- marshalling -->
-        <jackson.version>2.8.5</jackson.version>
+        <jackson.version>2.12.7.1</jackson.version>
 
         <!-- various -->
         <hibernate-validator.version>5.1.3.Final</hibernate-validator.version>
