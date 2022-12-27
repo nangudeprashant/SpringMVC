@@ -39,7 +39,7 @@
 
     <properties>
         <!-- hazelcast -->
-        <hazelcast.version>3.8.4</hazelcast.version>
+        <hazelcast.version>3.12.13</hazelcast.version>
     </properties>
 
 </project>
